@@ -701,7 +701,7 @@ left = 80vw
 }
 
 /* Small phones */
-@media (max-width: 480px) {
+@media (max-width: 400px) {
     .title{
         font-size: 52px;
     }
